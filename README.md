@@ -12,5 +12,5 @@ The dataset covers all constituencies in England, Wales and Scotland, though dat
 ## Sources & acknowledgements:
 
 * Election results: [Press Association Elections](http://election.pressassociation.com/)
-* EU referendum Leave vote estimates: [Chris Hanretty](https://twitter.com/chrishanretty) ([data](https://docs.google.com/spreadsheets/d/1b71SDKPFbk-ktmUTXmDpUP5PT299qq24orEA0_TOpmw/edit#gid=579044181), [explanation](https://medium.com/@chrishanretty/final-estimates-of-the-leave-vote-or-areal-interpolation-and-the-uks-referendum-on-eu-membership-5490b6cab878)
+* EU referendum Leave vote estimates: [Chris Hanretty](https://twitter.com/chrishanretty) ([data](https://docs.google.com/spreadsheets/d/1b71SDKPFbk-ktmUTXmDpUP5PT299qq24orEA0_TOpmw/edit#gid=579044181), [explanation](https://medium.com/@chrishanretty/final-estimates-of-the-leave-vote-or-areal-interpolation-and-the-uks-referendum-on-eu-membership-5490b6cab878))
 * Other variables: [Office for National Statistics](https://www.nomisweb.co.uk/)
