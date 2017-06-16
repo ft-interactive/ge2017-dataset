@@ -1,5 +1,5 @@
 # ge2017-dataset
-Constituency-level results and demographics used in the FT's analyses of the 2017 UK general election
+Constituency-level results and demographics used in the FT's [two](https://www.ft.com/content/dac3a3b2-4ad7-11e7-919a-1e14ce4af89b) [analyses](https://www.ft.com/content/ef22d4ba-4f7b-11e7-bfb8-997009366969) of the 2017 UK general election
 
 The file `financialTimes_ge2017_dataset.csv` contains the full dataset, comprising results from the 2015 and 2017, as well as 50 other variables on various demographic, socio-economic and other characteristics of each constituency's population.
 
