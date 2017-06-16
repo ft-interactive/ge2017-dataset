@@ -1,178 +1,178 @@
-var,category,type
-econ_intermediate,class,percent
-econ_intermediate_denom,class,denominator
-econ_intermediate_num,class,numerator
-econ_routineSemiRoutine,class,percent
-econ_routineSemiRoutine_denom,class,denominator
-econ_routineSemiRoutine_num,class,numerator
-econ_routineSemiroutineNone,class,percent
-econ_routineSemiroutineNone_denom,class,denominator
-econ_routineSemiroutineNone_num,class,numerator
-econ_seg_AB,class,percent
-econ_seg_AB_denom,class,denominator
-econ_seg_AB_num,class,numerator
-econ_seg_ABC1,class,percent
-econ_seg_ABC1_denom,class,denominator
-econ_seg_ABC1_num,class,numerator
-econ_seg_C1,class,percent
-econ_seg_C1_denom,class,denominator
-econ_seg_C1_num,class,numerator
-econ_seg_C2,class,percent
-econ_seg_C2_denom,class,denominator
-econ_seg_C2_num,class,numerator
-econ_seg_C2DE,class,percent
-econ_seg_C2DE_denom,class,denominator
-econ_seg_C2DE_num,class,numerator
-econ_seg_DE,class,percent
-econ_seg_DE_denom,class,denominator
-econ_seg_DE_num,class,numerator
-econ_belowLivingWage,custom,percent
-econ_grossPayFTE,custom,other
-econ_medianHousePrice,custom,other
-age_18to24,demos,percent
-age_18to24_denom,demos,denominator
-age_18to24_num,demos,numerator
-age_65plus,demos,percent
-age_65plus_denom,demos,denominator
-age_65plus_num,demos,numerator
-age_students_18to24,demos,percent
-age_students_18to24_denom,demos,denominator
-age_students_18to24_num,demos,numerator
-age_studentsHome_denom,demos,denominator
-age_studentsHome_num,demos,numerator
-age_studentsTerm_denom,demos,denominator
-age_studentsTerm_num,demos,numerator
-cob_britain,demos,percent
-cob_britain_denom,demos,denominator
-cob_britain_num,demos,numerator
-cob_restOfEurope,demos,percent
-cob_restOfEurope_denom,demos,denominator
-cob_restOfEurope_num,demos,numerator
-cob_restOfWorld,demos,percent
-cob_restOfWorld_denom,demos,denominator
-cob_restOfWorld_num,demos,numerator
-demos_nationalID,demos,percent
-demos_nationalID_denom,demos,denominator
-demos_nationalID_num,demos,numerator
-demos_nonWhiteUk,demos,percent
-demos_nonWhiteUk_denom,demos,denominator
-demos_nonWhiteUk_num,demos,numerator
-demos_noPassport,demos,percent
-demos_noPassport_denom,demos,denominator
-demos_noPassport_num,demos,numerator
-demos_popDens,demos,percent
-demos_popDens_denom,demos,denominator
-demos_popDens_num,demos,numerator
-demos_religion_atheist,demos,percent
-demos_religion_atheist_denom,demos,denominator
-demos_religion_atheist_num,demos,numerator
-demos_religion_muslim,demos,percent
-demos_religion_muslim_denom,demos,denominator
-demos_religion_muslim_num,demos,numerator
-demos_religion_xian,demos,percent
-demos_religion_xian_denom,demos,denominator
-demos_religion_xian_num,demos,numerator
-edu_degree_2015,edu,percent
-edu_degree_2015_denom,edu,denominator
-edu_degree_2015_num,edu,numerator
-edu_degree_over50,edu,percent
-edu_degree_over50_denom,edu,denominator
-edu_degree_over50_num,edu,numerator
-edu_noQuals_2015,edu,percent
-edu_noQuals_2015_denom,edu,denominator
-edu_noQuals_2015_num,edu,numerator
-edu_students_homeTime,edu,percent
-edu_students_homeTime_denom,edu,denominator
-edu_students_homeTime_num,edu,numerator
-edu_students_termTime,edu,percent
-edu_students_termTime_denom,edu,denominator
-edu_students_termTime_num,edu,numerator
-health_activiesLimitedAny,health,percent
-health_activiesLimitedAny_denom,health,denominator
-health_activiesLimitedAny_num,health,numerator
-health_activitiesLimitedALot,health,percent
-health_activitiesLimitedALot_denom,health,denominator
-health_activitiesLimitedALot_num,health,numerator
-health_badHealth,health,percent
-health_badHealth_denom,health,denominator
-health_badHealth_num,health,numerator
-econ_activityRate_2015,jobs,percent
-econ_activityRate_2015_denom,jobs,denominator
-econ_activityRate_2015_num,jobs,numerator
-econ_employmentRate_2015,jobs,percent
-econ_employmentRate_2015_denom,jobs,denominator
-econ_employmentRate_2015_num,jobs,numerator
-econ_unemploymentRate_2015,jobs,percent
-econ_unemploymentRate_2015_denom,jobs,denominator
-econ_unemploymentRate_2015_num,jobs,numerator
-econ_unemploymentRateMen_2015,jobs,percent
-econ_unemploymentRateMen_2015_denom,jobs,denominator
-econ_unemploymentRateMen_2015_num,jobs,numerator
-PCON15CD,meta,other
-seat,meta,other
-econ_administrative_4_2015,occupation,percent
-econ_administrative_4_2015_denom,occupation,denominator
-econ_administrative_4_2015_num,occupation,numerator
-econ_careLeisure_6_2015,occupation,percent
-econ_careLeisure_6_2015_denom,occupation,denominator
-econ_careLeisure_6_2015_num,occupation,numerator
-econ_machines_8_2015,occupation,percent
-econ_machines_8_2015_denom,occupation,denominator
-econ_machines_8_2015_num,occupation,numerator
-econ_managers_1_2015,occupation,percent
-econ_managers_1_2015_denom,occupation,denominator
-econ_managers_1_2015_num,occupation,numerator
-econ_professional_2_2015,occupation,percent
-econ_professional_2_2015_denom,occupation,denominator
-econ_professional_2_2015_num,occupation,numerator
-econ_routine_9_2015,occupation,percent
-econ_routine_9_2015_denom,occupation,denominator
-econ_routine_9_2015_num,occupation,numerator
-econ_sales_7_2015,occupation,percent
-econ_sales_7_2015_denom,occupation,denominator
-econ_sales_7_2015_num,occupation,numerator
-econ_skilledTrades_5_2015,occupation,percent
-econ_skilledTrades_5_2015_denom,occupation,denominator
-econ_skilledTrades_5_2015_num,occupation,numerator
-econ_tech_3_2015,occupation,percent
-econ_tech_3_2015_denom,occupation,denominator
-econ_tech_3_2015_num,occupation,numerator
-con_NUM_2015,political,number
-con_NUM_2017,political,number
-con_PC_2015,political,percent
-con_PC_2017,political,percent
-electorate_2015,political,number
-electorate_2017,political,number
-green_NUM_2015,political,number
-green_NUM_2017,political,number
-green_PC_2015,political,percent
-green_PC_2017,political,percent
-hanrettyEstimate,political,boolean
-hanrettyLeave,political,number
-lab_NUM_2015,political,number
-lab_NUM_2017,political,number
-lab_PC_2015,political,percent
-lab_PC_2017,political,percent
-ld_NUM_2015,political,number
-ld_NUM_2017,political,number
-ld_PC_2015,political,percent
-ld_PC_2017,political,percent
-other_NUM_2017,political,number
-other_PC_2017,political,percent
-pc_NUM_2015,political,number
-pc_NUM_2017,political,number
-pc_PC_2015,political,percent
-pc_PC_2017,political,percent
-snp_NUM_2015,political,number
-snp_NUM_2017,political,number
-snp_PC_2015,political,percent
-snp_PC_2017,political,percent
-totalVotes_2015,political,number
-totalVotes_2017,political,number
-turnout_PC_2015,political,percent
-turnout_PC_2017,political,percent
-ukip_candidate,political,boolean
-ukip_NUM_2015,political,number
-ukip_NUM_2017,political,number
-ukip_PC_2015,political,percent
-ukip_PC_2017,political,percent
+var,category,type,description
+PCON15CD,meta,other,constituency GSS code
+seat,meta,other,constituency name
+hanrettyLeave,political,number,estimate of Leave vote in EU referendum (known result if variable hanrettyEstimate equals 0)
+con_PC_2015,political,percent,"conservative votes, 2015"
+green_PC_2015,political,percent,"green votes, 2015"
+lab_PC_2015,political,percent,"labour votes, 2015"
+ld_PC_2015,political,percent,"lib dem votes, 2015"
+pc_PC_2015,political,percent,"plaid cymru votes, 2015"
+snp_PC_2015,political,percent,"snp votes, 2015"
+ukip_PC_2015,political,percent,"ukip votes, 2015"
+con_NUM_2015,political,number,"conservative votes, 2015"
+green_NUM_2015,political,number,"green votes, 2015"
+lab_NUM_2015,political,number,"labour votes, 2015"
+ld_NUM_2015,political,number,"lib dem votes, 2015"
+pc_NUM_2015,political,number,"plaid cymru votes, 2015"
+snp_NUM_2015,political,number,"snp votes, 2015"
+ukip_NUM_2015,political,number,"ukip votes share, 2015"
+electorate_2015,political,number,"size of electorate, 2015"
+totalVotes_2015,political,number,"total votes cast, 2015"
+ukip_candidate,political,boolean,"did ukip field a candidate? 1 for yes, 0 for no"
+electorate_2017,political,number,"size of electorate, 2017"
+totalVotes_2017,political,number,"total votes cast, 2017"
+con_NUM_2017,political,number,"conservative votes, 2017"
+con_PC_2017,political,percent,"conservative votes, 2017"
+green_NUM_2017,political,number,"green votes, 2017"
+green_PC_2017,political,percent,"green votes, 2017"
+lab_NUM_2017,political,number,"labour votes, 2017"
+lab_PC_2017,political,percent,"labour votes, 2017"
+ld_NUM_2017,political,number,"lib dem votes, 2017"
+ld_PC_2017,political,percent,"lib dem votes, 2017"
+other_NUM_2017,political,number,"other parties votes, 2017"
+other_PC_2017,political,percent,"other parties votes, 2017"
+pc_NUM_2017,political,number,"plaid cymru votes, 2017"
+pc_PC_2017,political,percent,"plaid cymru votes, 2017"
+snp_NUM_2017,political,number,"snp votes, 2017"
+snp_PC_2017,political,percent,"snp votes, 2017"
+ukip_NUM_2017,political,number,"ukip votes, 2017"
+ukip_PC_2017,political,percent,"ukip votes, 2017"
+turnout_PC_2015,political,percent,"turnout, 2015"
+turnout_PC_2017,political,percent,"turnout, 2017"
+hanrettyEstimate,political,boolean,"was hanretty figure a modelled estimate or known result? 1 for estimate, 0 for known result"
+age_students_18to24,demos,percent,students as a proportion of those aged 18-24
+age_18to24,demos,percent,people aged 18 to 24
+age_65plus,demos,percent,people aged 65 and over
+cob_britain,demos,percent,people born in the UK
+cob_restOfEurope,demos,percent,people born in Europe outside the UK and Ireland
+cob_restOfWorld,demos,percent,people born outside of Europe
+demos_popDens,demos,percent,population density (people per hectare)
+demos_nationalID,demos,percent,"people identifying as English (in England), Welsh (in Wales) or Scottish (in Scotland) rather than British or any other single or combination of national identities"
+demos_nonWhiteUk,demos,percent,non- white-British people
+demos_noPassport,demos,percent,people with no passport
+demos_religion_xian,demos,percent,people identifying as Christian
+demos_religion_muslim,demos,percent,people identifying as Muslim
+demos_religion_atheist,demos,percent,people identifying as of no religion
+age_students_18to24_num,demos,numerator,students as a proportion of those aged 18-24
+age_studentsHome_num,demos,numerator,students outside of term time
+age_studentsTerm_num,demos,numerator,students during term time
+age_18to24_num,demos,numerator,people aged 18 to 24
+age_65plus_num,demos,numerator,people aged 65 and over
+cob_britain_num,demos,numerator,people born in the UK
+cob_restOfEurope_num,demos,numerator,people born in Europe outside the UK and Ireland
+cob_restOfWorld_num,demos,numerator,people born outside of Europe
+demos_popDens_num,demos,numerator,population density (people per hectare)
+demos_nationalID_num,demos,numerator,"people identifying as English (in England), Welsh (in Wales) or Scottish (in Scotland) rather than British or any other single or combination of national identities"
+demos_nonWhiteUk_num,demos,numerator,non- white-British people
+demos_noPassport_num,demos,numerator,people with no passport
+demos_religion_xian_num,demos,numerator,people identifying as Christian
+demos_religion_muslim_num,demos,numerator,people identifying as Muslim
+demos_religion_atheist_num,demos,numerator,people identifying as of no religion
+age_students_18to24_denom,demos,denominator,students as a proportion of those aged 18-24
+age_studentsHome_denom,demos,denominator,students outside of term time
+age_studentsTerm_denom,demos,denominator,students during term time
+age_18to24_denom,demos,denominator,people aged 18 to 24
+age_65plus_denom,demos,denominator,people aged 65 and over
+cob_britain_denom,demos,denominator,people born in the UK
+cob_restOfEurope_denom,demos,denominator,people born in Europe outside the UK and Ireland
+cob_restOfWorld_denom,demos,denominator,people born outside of Europe
+demos_popDens_denom,demos,denominator,population density (people per hectare)
+demos_nationalID_denom,demos,denominator,"people identifying as English (in England), Welsh (in Wales) or Scottish (in Scotland) rather than British or any other single or combination of national identities"
+demos_nonWhiteUk_denom,demos,denominator,non- white-British people
+demos_noPassport_denom,demos,denominator,people with no passport
+demos_religion_xian_denom,demos,denominator,people identifying as Christian
+demos_religion_muslim_denom,demos,denominator,people identifying as Muslim
+demos_religion_atheist_denom,demos,denominator,people identifying as of no religion
+edu_degree_2015,edu,percent,people with a degree
+edu_degree_over50,edu,percent,people aged 50 or older with a degree
+edu_noQuals_2015,edu,percent,people with no NVQ qualifications
+edu_students_termTime,edu,percent,students outside of term time
+edu_students_homeTime,edu,percent,students during term time
+edu_degree_2015_num,edu,numerator,people with a degree
+edu_degree_over50_num,edu,numerator,people aged 50 or older with a degree
+edu_noQuals_2015_num,edu,numerator,people with no NVQ qualifications
+edu_students_termTime_num,edu,numerator,students outside of term time
+edu_students_homeTime_num,edu,numerator,students during term time
+edu_degree_2015_denom,edu,denominator,people with a degree
+edu_degree_over50_denom,edu,denominator,people aged 50 or older with a degree
+edu_noQuals_2015_denom,edu,denominator,people with no NVQ qualifications
+edu_students_termTime_denom,edu,denominator,students outside of term time
+edu_students_homeTime_denom,edu,denominator,students during term time
+econ_seg_AB,class,percent,NRS social grade AB
+econ_seg_C1,class,percent,NRS social grade C1
+econ_seg_C2,class,percent,NRS social grade C2
+econ_seg_DE,class,percent,NRS social grade DE
+econ_seg_ABC1,class,percent,NRS bracketed social grade ABC1
+econ_seg_C2DE,class,percent,NRS bracketed social grade C2DE
+econ_intermediate,class,percent,people in intermediate occupations
+econ_routineSemiRoutine,class,percent,people in routine and semi-routine occupations
+econ_routineSemiroutineNone,class,percent,"people in routine and semi-routine occupations, or unemployed"
+econ_seg_AB_num,class,numerator,NRS social grade AB
+econ_seg_C1_num,class,numerator,NRS social grade C1
+econ_seg_C2_num,class,numerator,NRS social grade C2
+econ_seg_DE_num,class,numerator,NRS social grade DE
+econ_seg_ABC1_num,class,numerator,NRS bracketed social grade ABC1
+econ_seg_C2DE_num,class,numerator,NRS bracketed social grade C2DE
+econ_intermediate_num,class,numerator,people in intermediate occupations
+econ_routineSemiRoutine_num,class,numerator,people in routine and semi-routine occupations
+econ_routineSemiroutineNone_num,class,numerator,"people in routine and semi-routine occupations, or unemployed"
+econ_seg_AB_denom,class,denominator,NRS social grade AB
+econ_seg_C1_denom,class,denominator,NRS social grade C1
+econ_seg_C2_denom,class,denominator,NRS social grade C2
+econ_seg_DE_denom,class,denominator,NRS social grade DE
+econ_seg_ABC1_denom,class,denominator,NRS bracketed social grade ABC1
+econ_seg_C2DE_denom,class,denominator,NRS bracketed social grade C2DE
+econ_routineSemiRoutine_denom,class,denominator,people in intermediate occupations
+econ_routineSemiroutineNone_denom,class,denominator,people in routine and semi-routine occupations
+econ_intermediate_denom,class,denominator,"people in routine and semi-routine occupations, or unemployed"
+econ_activityRate_2015,jobs,percent,economic activity rate
+econ_employmentRate_2015,jobs,percent,employment rate
+econ_unemploymentRate_2015,jobs,percent,unemployment rate
+econ_unemploymentRateMen_2015,jobs,percent,male unemployment rate
+econ_activityRate_2015_num,jobs,numerator,economic activity rate
+econ_employmentRate_2015_num,jobs,numerator,employment rate
+econ_unemploymentRate_2015_num,jobs,numerator,unemployment rate
+econ_unemploymentRateMen_2015_num,jobs,numerator,male unemployment rate
+econ_activityRate_2015_denom,jobs,denominator,economic activity rate
+econ_employmentRate_2015_denom,jobs,denominator,employment rate
+econ_unemploymentRate_2015_denom,jobs,denominator,unemployment rate
+econ_unemploymentRateMen_2015_denom,jobs,denominator,male unemployment rate
+econ_managers_1_2015,occupation,percent,"managers, directors and senior officials"
+econ_professional_2_2015,occupation,percent,professional occupations
+econ_tech_3_2015,occupation,percent,associate professional and technical occupations
+econ_administrative_4_2015,occupation,percent,administrative and secretarial occupations
+econ_skilledTrades_5_2015,occupation,percent,skilled trades occupations
+econ_careLeisure_6_2015,occupation,percent,"caring, leisure and other service occupations"
+econ_sales_7_2015,occupation,percent,sales and customer service occupations
+econ_machines_8_2015,occupation,percent,"process, plant and machine operatives"
+econ_routine_9_2015,occupation,percent,elementary occupations
+econ_managers_1_2015_num,occupation,numerator,"managers, directors and senior officials"
+econ_professional_2_2015_num,occupation,numerator,professional occupations
+econ_tech_3_2015_num,occupation,numerator,associate professional and technical occupations
+econ_administrative_4_2015_num,occupation,numerator,administrative and secretarial occupations
+econ_skilledTrades_5_2015_num,occupation,numerator,skilled trades occupations
+econ_careLeisure_6_2015_num,occupation,numerator,"caring, leisure and other service occupations"
+econ_sales_7_2015_num,occupation,numerator,sales and customer service occupations
+econ_machines_8_2015_num,occupation,numerator,"process, plant and machine operatives"
+econ_routine_9_2015_num,occupation,numerator,elementary occupations
+econ_managers_1_2015_denom,occupation,denominator,"managers, directors and senior officials"
+econ_professional_2_2015_denom,occupation,denominator,professional occupations
+econ_tech_3_2015_denom,occupation,denominator,associate professional and technical occupations
+econ_administrative_4_2015_denom,occupation,denominator,administrative and secretarial occupations
+econ_skilledTrades_5_2015_denom,occupation,denominator,skilled trades occupations
+econ_careLeisure_6_2015_denom,occupation,denominator,"caring, leisure and other service occupations"
+econ_sales_7_2015_denom,occupation,denominator,sales and customer service occupations
+econ_machines_8_2015_denom,occupation,denominator,"process, plant and machine operatives"
+econ_routine_9_2015_denom,occupation,denominator,elementary occupations
+health_badHealth,health,percent,"people self-reporting as being in a ""bad"" or ""very bad"" state of health"
+health_activitiesLimitedALot,health,percent,people whose activities are limited ‘a lot’ because of a health problem or disability
+health_activiesLimitedAny,health,percent,people whose activities are limited ‘a lot’ or 'a little' because of a health problem or disability
+health_badHealth_num,health,numerator,"people self-reporting as being in a ""bad"" or ""very bad"" state of health"
+health_activitiesLimitedALot_num,health,numerator,people whose activities are limited ‘a lot’ or 'a little' because of a health problem or disability
+health_activiesLimitedAny_num,health,numerator,people whose activities are limited ‘a lot’ or 'a little' because of a health problem or disability
+health_badHealth_denom,health,denominator,"people self-reporting as being in a ""bad"" or ""very bad"" state of health"
+health_activitiesLimitedALot_denom,health,denominator,people whose activities are limited ‘a lot’ or 'a little' because of a health problem or disability
+health_activiesLimitedAny_denom,health,denominator,people whose activities are limited ‘a lot’ or 'a little' because of a health problem or disability
+econ_belowLivingWage,custom,percent,share of workforce earning less than the living wage
+econ_medianHousePrice,custom,other,median house price
+econ_grossPayFTE,custom,other,gross annual pay
